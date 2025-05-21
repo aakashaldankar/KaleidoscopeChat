@@ -1,0 +1,9 @@
+langchain-groq
+qdrant-client==1.13.3
+llama-index-embeddings-huggingface==0.5.2
+llama-index-vector-stores-qdrant==0.6.0
+llama-index-core==0.12.28
+langchain_core==0.3.51
+langchain_openai==0.3.12
+llama-index-llms-groq==0.3.1
+pydantic==2.8.0
