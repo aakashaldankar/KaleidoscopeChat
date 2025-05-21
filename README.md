@@ -2,6 +2,7 @@
 
 Welcome to **KaleidoscopeChat** – an AI-powered conversational assistant designed to help students learn and engage deeply with the *Kaleidoscope* Class 12 NCERT English textbook. Whether it's a poem, story, drama, or non-fiction, **Shalini** (your chatbot muse) guides you with literary insights, summaries, and answers to your doubts.
 
+HuggingFace Space Link: https://huggingface.co/spaces/aakashaldankar/KaleidoscopeChat
 ---
 
 ## ✨ Project Highlights
